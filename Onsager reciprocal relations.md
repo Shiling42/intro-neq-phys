@@ -104,7 +104,7 @@ $$
 
 $$
 \langle x_i(t+\tau)x_j(t)\rangle = \langle x_i(t-\tau)x_j(t)\rangle =\langle x_i(t)x_j(t+\tau)\rangle 
-$$  
+$$
 
 这个时间可逆性给了我如下关系
 
