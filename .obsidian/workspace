@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "a261ba01f5c56ed7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cc896c9c4ba7fc2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "concepts/信息.md",
+            "mode": "source"
+          }
+        },
+        "group": "7e161313ef5019e2"
+      },
+      {
+        "id": "cc3df692d5d247c2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "concepts/信息.md",
+            "mode": "preview"
+          }
+        },
+        "group": "7e161313ef5019e2"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75ab1ab31022161a",
+    "type": "split",
+    "children": [
+      {
+        "id": "04dd2546cecafce0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65038c42cc7be32e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e21b993bfe68585",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e247a921c666906c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e894ecea3c41a51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3410f57431d40813",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "concepts/信息.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0cc896c9c4ba7fc2",
+  "lastOpenFiles": [
+    "concepts/信息.md",
+    "相对熵.md",
+    "notes/Test.md",
+    "Entropic_Method.md",
+    "Prigogine_Dissipative_Structure.md",
+    "README.md",
+    "Review_on_Equilibrium_Thermodynamics.md",
+    "Thermodynamic_uncertainty_relation.md",
+    "Onsager reciprocal relations.md",
+    "Chemical_reaction_and_equilibrium_constant.md"
+  ]
+}
