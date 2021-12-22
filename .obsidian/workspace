@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/信息.md",
+            "file": "concepts/平衡态热力学/自由能.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/信息.md",
+            "file": "concepts/平衡态热力学/自由能.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/信息.md",
+                "file": "concepts/平衡态热力学/自由能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "0cc896c9c4ba7fc2",
   "lastOpenFiles": [
-    "concepts/信息.md",
-    "相对熵.md",
-    "notes/Test.md",
-    "Entropic_Method.md",
-    "Prigogine_Dissipative_Structure.md",
-    "README.md",
-    "Review_on_Equilibrium_Thermodynamics.md",
+    "concepts/平衡态热力学/自由能.md",
+    "concepts/通用概念/简并度与粗粒化.md",
+    "concepts/平衡态热力学/热机.md",
+    "concepts/非平衡热力学/广义的自由能.md",
+    "concepts/非平衡热力学/信息和热力学.md",
     "Thermodynamic_uncertainty_relation.md",
+    "Review_on_Equilibrium_Thermodynamics.md",
+    "README.md",
     "Onsager reciprocal relations.md",
-    "Chemical_reaction_and_equilibrium_constant.md"
+    "Prigogine_Dissipative_Structure.md"
   ]
 }
