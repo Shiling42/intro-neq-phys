@@ -6,28 +6,30 @@
       {
         "id": "629f74d9f7787e80",
         "type": "leaf",
-        "dimension": 60.630407911001235,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/随机热力学/随机热力学第一定律.md",
+            "file": "concepts/随机热力学/随机热力学第二定律.md",
             "mode": "source",
             "source": true
           }
-        }
+        },
+        "group": "11e7023307e4cf69"
       },
       {
-        "id": "edf985e4bd9e404b",
+        "id": "b1884a9ae28d821f",
         "type": "leaf",
-        "dimension": 39.369592088998765,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/随机热力学/随机热力学第一定律.md",
+            "file": "concepts/随机热力学/随机热力学第二定律.md",
             "mode": "preview",
-            "source": false
+            "source": true
           }
-        }
+        },
+        "group": "11e7023307e4cf69"
       }
     ],
     "direction": "vertical"
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/随机热力学/随机热力学第一定律.md",
+                "file": "concepts/随机热力学/随机热力学第二定律.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +105,15 @@
   },
   "active": "629f74d9f7787e80",
   "lastOpenFiles": [
+    "concepts/随机热力学/随机热力学第二定律.md",
     "concepts/随机热力学/随机热力学第一定律.md",
     "concepts/随机热力学/郎之万方程.md",
     "concepts/随机热力学/福克普朗克方程.md",
     "concepts/随机热力学/轨迹.md",
-    "concepts/随机热力学/随机热力学第二定律.md",
-    "concepts/随机热力学/郎之万方程.md",
-    "concepts/随机热力学/Fokker-Planck_Equation.md",
-    "Chemical_reaction_and_equilibrium_constant.md",
-    "Entropic_Method.md",
-    "Fokker-Planck_Equation.md"
+    "concepts/非平衡热力学/非平衡态热力学第一定律.md",
+    "concepts/非平衡热力学/广义自由能.md",
+    "concepts/非平衡热力学/最小熵产生.md",
+    "concepts/非平衡热力学/非平衡态热力学第二定律.md",
+    "concepts/非平衡热力学/相对熵.md"
   ]
 }
