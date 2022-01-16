@@ -29,8 +29,8 @@ $$
 
 $$
 \begin{aligned}
-\sum_{p_i}\ln{p_i^{*}}
-&=-\sum_{p_i}p_i\frac{E_i}{k_BT}+\sum_{p_i}\ln{Z^{eq}}\\
+\sum_{i}p_i\ln{p_i^{*}}
+&=-\sum_{i}p_i\frac{E_i}{k_BT}+\sum_{i}p_i\ln{Z^{eq}}\\
 &=-\frac{1}{k_BT}\left(\langle E\rangle_P-F^{eq}\right)\\
 &=-\frac{1}{k_BT}\left(\langle E\rangle_P-\langle E\rangle_{eq}+k_BTS(P^{eq})\right)
 \end{aligned}

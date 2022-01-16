@@ -4,32 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "629f74d9f7787e80",
+        "id": "cc190e9b101763ed",
         "type": "leaf",
-        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/随机热力学/随机热力学第二定律.md",
+            "file": "concepts/平衡态热力学/化学势.md",
             "mode": "source",
             "source": true
           }
         },
-        "group": "11e7023307e4cf69"
+        "group": "b3d9f5ffe6c503c1"
       },
       {
-        "id": "b1884a9ae28d821f",
+        "id": "c9e52ae0e7a443ba",
         "type": "leaf",
-        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/随机热力学/随机热力学第二定律.md",
+            "file": "concepts/平衡态热力学/化学势.md",
             "mode": "preview",
             "source": true
           }
         },
-        "group": "11e7023307e4cf69"
+        "group": "b3d9f5ffe6c503c1"
       }
     ],
     "direction": "vertical"
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/随机热力学/随机热力学第二定律.md",
+                "file": "concepts/平衡态热力学/化学势.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "629f74d9f7787e80",
+  "active": "cc190e9b101763ed",
   "lastOpenFiles": [
-    "concepts/随机热力学/随机热力学第二定律.md",
-    "concepts/随机热力学/随机热力学第一定律.md",
-    "concepts/随机热力学/郎之万方程.md",
-    "concepts/随机热力学/福克普朗克方程.md",
-    "concepts/随机热力学/轨迹.md",
-    "concepts/非平衡热力学/非平衡态热力学第一定律.md",
-    "concepts/非平衡热力学/广义自由能.md",
-    "concepts/非平衡热力学/最小熵产生.md",
-    "concepts/非平衡热力学/非平衡态热力学第二定律.md",
-    "concepts/非平衡热力学/相对熵.md"
+    "concepts/平衡态热力学/化学势.md",
+    "concepts/平衡态热力学/化学反应平衡常数.md",
+    "concepts/平衡态热力学/昂萨格倒异关系.md",
+    "concepts/平衡态热力学/热力学第一定律.md",
+    "concepts/平衡态热力学/热力学第二定律.md",
+    "concepts/平衡态热力学/热机.md",
+    "concepts/平衡态热力学/自由能.md",
+    "concepts/平衡态热力学/㶲.md",
+    "notes/动态校对.md",
+    "Thermodynamic_uncertainty_relation.md"
   ]
 }
