@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/平衡态热力学/化学势.md",
+            "file": "concepts/随机热力学/郎之万方程.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/平衡态热力学/化学势.md",
+            "file": "concepts/随机热力学/郎之万方程.md",
             "mode": "preview",
             "source": true
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/平衡态热力学/化学势.md",
+                "file": "concepts/随机热力学/郎之万方程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "cc190e9b101763ed",
   "lastOpenFiles": [
-    "concepts/平衡态热力学/化学势.md",
-    "concepts/平衡态热力学/化学反应平衡常数.md",
-    "concepts/平衡态热力学/昂萨格倒异关系.md",
+    "concepts/随机热力学/郎之万方程.md",
+    "concepts/随机热力学/随机热力学第一定律.md",
+    "concepts/非平衡热力学/非平衡态热力学第一定律.md",
+    "concepts/非平衡热力学/最小熵产生.md",
+    "concepts/随机热力学/随机热力学第二定律.md",
+    "concepts/随机热力学/福克普朗克方程.md",
+    "concepts/随机热力学/轨迹.md",
     "concepts/平衡态热力学/热力学第一定律.md",
-    "concepts/平衡态热力学/热力学第二定律.md",
-    "concepts/平衡态热力学/热机.md",
-    "concepts/平衡态热力学/自由能.md",
-    "concepts/平衡态热力学/㶲.md",
-    "notes/动态校对.md",
-    "Thermodynamic_uncertainty_relation.md"
+    "concepts/通用概念/概率空间.md",
+    "concepts/通用概念/相空间.md"
   ]
 }
