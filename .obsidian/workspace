@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/通用概念/简并度与粗粒化.md",
+            "file": "复制与信息.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/通用概念/简并度与粗粒化.md",
+            "file": "复制与信息.md",
             "mode": "preview",
             "source": false
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e247a921c666906c",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/通用概念/简并度与粗粒化.md",
+                "file": "复制与信息.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +104,8 @@
   },
   "active": "cc190e9b101763ed",
   "lastOpenFiles": [
+    "复制与信息.md",
+    "concepts/非平衡热力学/信息和热力学.md",
     "concepts/通用概念/简并度与粗粒化.md",
     "concepts/随机微分方程/伊藤积分.md",
     "concepts/随机微分方程/Stratonovich积分.md",
@@ -110,8 +113,6 @@
     "concepts/通用概念/概率空间.md",
     "concepts/通用概念/相空间.md",
     "concepts/随机热力学/随机热力学第一定律.md",
-    "concepts/随机热力学/轨迹.md",
-    "concepts/随机热力学/郎之万方程.md",
-    "concepts/非平衡热力学/最小熵产生.md"
+    "concepts/随机热力学/轨迹.md"
   ]
 }
