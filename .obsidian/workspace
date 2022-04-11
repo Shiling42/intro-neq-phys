@@ -9,12 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "复制与信息.md",
+            "file": "concepts/非平衡热力学/姆潘巴现象.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "b3d9f5ffe6c503c1"
+        }
       },
       {
         "id": "c9e52ae0e7a443ba",
@@ -22,12 +21,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "复制与信息.md",
+            "file": "concepts/非平衡热力学/姆潘巴现象.md",
             "mode": "preview",
             "source": false
           }
-        },
-        "group": "b3d9f5ffe6c503c1"
+        }
       }
     ],
     "direction": "vertical"
@@ -67,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e247a921c666906c",
@@ -84,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "复制与信息.md",
+                "file": "concepts/非平衡热力学/姆潘巴现象.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +101,15 @@
   },
   "active": "cc190e9b101763ed",
   "lastOpenFiles": [
-    "复制与信息.md",
-    "concepts/非平衡热力学/信息和热力学.md",
+    "concepts/非平衡热力学/姆潘巴现象.md",
     "concepts/通用概念/简并度与粗粒化.md",
-    "concepts/随机微分方程/伊藤积分.md",
-    "concepts/随机微分方程/Stratonovich积分.md",
-    "concepts/通用概念/信息.md",
-    "concepts/通用概念/概率空间.md",
-    "concepts/通用概念/相空间.md",
-    "concepts/随机热力学/随机热力学第一定律.md",
-    "concepts/随机热力学/轨迹.md"
+    "notes/K-L散度的物理意义.md",
+    "Perspectives/生命起源.md",
+    "concepts/非平衡热力学/非平衡态的耗散.md",
+    "concepts/非平衡热力学/非平衡态热力学第二定律.md",
+    "concepts/平衡态热力学/㶲.md",
+    "concepts/平衡态热力学/自由能.md",
+    "concepts/平衡态热力学/化学势.md",
+    "concepts/平衡态热力学/昂萨格倒异关系.md"
   ]
 }
