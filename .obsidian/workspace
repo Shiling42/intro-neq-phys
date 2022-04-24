@@ -9,11 +9,12 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/非平衡热力学/姆潘巴现象.md",
+            "file": "concepts/随机热力学/时间演化的特征展开.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
-        }
+        },
+        "group": "553498459824a2af"
       },
       {
         "id": "c9e52ae0e7a443ba",
@@ -21,11 +22,12 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/非平衡热力学/姆潘巴现象.md",
+            "file": "concepts/随机热力学/时间演化的特征展开.md",
             "mode": "preview",
-            "source": false
+            "source": true
           }
-        }
+        },
+        "group": "553498459824a2af"
       }
     ],
     "direction": "vertical"
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/非平衡热力学/姆潘巴现象.md",
+                "file": "concepts/随机热力学/时间演化的特征展开.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +103,15 @@
   },
   "active": "cc190e9b101763ed",
   "lastOpenFiles": [
+    "concepts/随机热力学/时间演化的特征展开.md",
+    "concepts/随机热力学/主方程.md",
     "concepts/非平衡热力学/姆潘巴现象.md",
-    "concepts/通用概念/简并度与粗粒化.md",
-    "notes/K-L散度的物理意义.md",
-    "Perspectives/生命起源.md",
-    "concepts/非平衡热力学/非平衡态的耗散.md",
-    "concepts/非平衡热力学/非平衡态热力学第二定律.md",
-    "concepts/平衡态热力学/㶲.md",
-    "concepts/平衡态热力学/自由能.md",
-    "concepts/平衡态热力学/化学势.md",
-    "concepts/平衡态热力学/昂萨格倒异关系.md"
+    "concepts/随机热力学/随机热力学第二定律.md",
+    "concepts/随机热力学/随机热力学第一定律.md",
+    "concepts/随机热力学/轨迹.md",
+    "concepts/随机热力学/福克普朗克方程.md",
+    "notes/通向非平衡之路.md",
+    "notes/动态校对.md",
+    "notes/随机热力学的三种动力学表述.md"
   ]
 }
