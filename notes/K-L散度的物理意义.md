@@ -8,7 +8,7 @@ D(P||P^*)=\sum_i p_i\ln\left(\frac{p_i}{p_i^*}\right)
 $$
 这个得拆开成两部分，$\ln\frac{p_i}{p_i^*}$ 是能级$i$在当前状态和参考状态之间的熵的差值。然后我们需要在当前状态求熵的平均，于是有了
 $$
-D(P||P^**)=\sum p_i\Delta S_i
+D(P||P^*)=\sum p_i\Delta S_i
 $$
 ## 作为自由能的相对熵
 当我们想研究两个概率分布的区别有多大的时候，我们会引入一个叫做相对熵的概念。相对熵又被成为Kullback–Leibler(KL)散度或者$KL$距离，定义为

@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "cc190e9b101763ed",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "concepts/随机热力学/时间演化的特征展开.md",
-            "mode": "source",
-            "source": true
-          }
-        },
-        "group": "553498459824a2af"
-      },
-      {
         "id": "c9e52ae0e7a443ba",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/随机热力学/时间演化的特征展开.md",
+            "file": "Perspectives/当我们在谈信息时我们在谈什么.md",
+            "mode": "source",
+            "source": true
+          }
+        },
+        "group": "86212ad936c2639b"
+      },
+      {
+        "id": "46ec6c554cc6f64a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Perspectives/当我们在谈信息时我们在谈什么.md",
             "mode": "preview",
             "source": true
           }
         },
-        "group": "553498459824a2af"
+        "group": "86212ad936c2639b"
       }
     ],
     "direction": "vertical"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/随机热力学/时间演化的特征展开.md",
+                "file": "Perspectives/当我们在谈信息时我们在谈什么.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cc190e9b101763ed",
+  "active": "c9e52ae0e7a443ba",
   "lastOpenFiles": [
-    "concepts/随机热力学/时间演化的特征展开.md",
-    "concepts/随机热力学/主方程.md",
-    "concepts/非平衡热力学/姆潘巴现象.md",
-    "concepts/随机热力学/随机热力学第二定律.md",
-    "concepts/随机热力学/随机热力学第一定律.md",
-    "concepts/随机热力学/轨迹.md",
-    "concepts/随机热力学/福克普朗克方程.md",
+    "Perspectives/当我们在谈信息时我们在谈什么.md",
+    "Perspectives/当我们在谈信息热力学的时我们在谈什么.md",
+    "Perspectives/生命起源.md",
+    "notes/随机热力学的三种动力学表述.md",
     "notes/通向非平衡之路.md",
-    "notes/动态校对.md",
-    "notes/随机热力学的三种动力学表述.md"
+    "concepts/非平衡热力学/信息和热力学.md",
+    "concepts/非平衡热力学/非平衡态热力学第一定律.md",
+    "concepts/非平衡热力学/非平衡态热力学第二定律.md",
+    "concepts/非平衡热力学/非平衡态的耗散.md",
+    "concepts/非平衡热力学/相对熵.md"
   ]
 }
