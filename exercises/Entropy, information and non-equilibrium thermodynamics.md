@@ -53,7 +53,7 @@ where $\langle E\rangle_{P}=\sum_i E_ip_i$ and $S(P) = -\sum_i p_i\ln p_i$.  Whe
 
 a) **Show that the Kullback-Leibler distance equals to the excess of non-equilibrium free energy**
 $$
-\Delta \mathcal{F} = \mathcal{F}(P)-\mathcal{F}(P^{eq})=D_{KL}(P||P^{eq}).
+\Delta \mathcal{F} = \mathcal{F}(P)-\mathcal{F}(P^{eq})=k_BT\underbrace{D_{KL}(P||P^{eq})}_{I}.
 $$
 b) **Show that the maximal work can be extracted from a non-equilibrium distribution $P$ is bounded by the non-equilibrium free energy difference:**
 $$

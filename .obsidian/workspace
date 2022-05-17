@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Perspectives/当我们在谈信息时我们在谈什么.md",
+            "file": "perspectives/非马尔科夫的起源.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Perspectives/当我们在谈信息时我们在谈什么.md",
+            "file": "perspectives/非马尔科夫的起源.md",
             "mode": "preview",
             "source": true
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Perspectives/当我们在谈信息时我们在谈什么.md",
+                "file": "perspectives/非马尔科夫的起源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "c9e52ae0e7a443ba",
   "lastOpenFiles": [
-    "Perspectives/当我们在谈信息时我们在谈什么.md",
+    "perspectives/非马尔科夫的起源.md",
+    "perspectives/当我们在谈信息时我们在谈什么.md",
     "Perspectives/当我们在谈信息热力学的时我们在谈什么.md",
-    "Perspectives/生命起源.md",
+    "perspectives/生命起源.md",
     "notes/随机热力学的三种动力学表述.md",
     "notes/通向非平衡之路.md",
     "concepts/非平衡热力学/信息和热力学.md",
     "concepts/非平衡热力学/非平衡态热力学第一定律.md",
     "concepts/非平衡热力学/非平衡态热力学第二定律.md",
-    "concepts/非平衡热力学/非平衡态的耗散.md",
-    "concepts/非平衡热力学/相对熵.md"
+    "concepts/非平衡热力学/非平衡态的耗散.md"
   ]
 }
