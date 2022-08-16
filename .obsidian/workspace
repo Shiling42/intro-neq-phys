@@ -7,25 +7,41 @@
         "id": "c9e52ae0e7a443ba",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/复制与信息.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "86212ad936c2639b"
+      },
+      {
+        "id": "fa356546d7f3168c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "concepts/化学系统/化学势.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ba67fa9b3aad4dd6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "concepts/化学系统/化学反应平衡常数.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       },
       {
         "id": "46ec6c554cc6f64a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/复制与信息.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "86212ad936c2639b"
       }
@@ -83,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/复制与信息.md",
+                "file": "concepts/化学系统/化学反应平衡常数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c9e52ae0e7a443ba",
+  "active": "65038c42cc7be32e",
   "lastOpenFiles": [
+    "concepts/化学系统/化学自由能.md",
+    "concepts/化学系统/化学势.md",
+    "concepts/化学系统/化学反应平衡常数.md",
     "notes/复制与信息.md",
     "notes/Thermodynamic_uncertainty_relation.md",
     "notes/Review_on_Equilibrium_Thermodynamics.md",
     "README.md",
     "notes/Prigogine_Dissipative_Structure.md",
     "notes/Entropic_Method.md",
-    "perspectives/非马尔科夫的起源.md",
-    "perspectives/生命起源.md",
-    "notes/动态校对.md",
-    "concepts/非平衡热力学/非平衡态的耗散.md"
+    "perspectives/非马尔科夫的起源.md"
   ]
 }
