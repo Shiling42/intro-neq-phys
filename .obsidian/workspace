@@ -4,25 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c9e52ae0e7a443ba",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "86212ad936c2639b"
-      },
-      {
         "id": "fa356546d7f3168c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/化学系统/化学势.md",
+            "file": "concepts/化学系统/化学反应体系形式.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
-        }
+        },
+        "group": "9b4abee6704ecab6"
       },
       {
         "id": "ba67fa9b3aad4dd6",
@@ -30,20 +22,12 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/化学系统/化学反应平衡常数.md",
-            "mode": "source",
-            "source": false
+            "file": "concepts/化学系统/化学反应体系形式.md",
+            "mode": "preview",
+            "source": true
           }
-        }
-      },
-      {
-        "id": "46ec6c554cc6f64a",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
         },
-        "group": "86212ad936c2639b"
+        "group": "9b4abee6704ecab6"
       }
     ],
     "direction": "vertical"
@@ -99,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/化学系统/化学反应平衡常数.md",
+                "file": "concepts/化学系统/化学反应体系形式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "65038c42cc7be32e",
+  "active": "fa356546d7f3168c",
   "lastOpenFiles": [
+    "concepts/化学系统/化学反应平衡常数.md",
+    "concepts/化学系统/化学反应体系形式.md",
+    "concepts/化学系统/化学非平衡自由能.md",
     "concepts/化学系统/化学自由能.md",
     "concepts/化学系统/化学势.md",
-    "concepts/化学系统/化学反应平衡常数.md",
-    "notes/复制与信息.md",
-    "notes/Thermodynamic_uncertainty_relation.md",
-    "notes/Review_on_Equilibrium_Thermodynamics.md",
-    "README.md",
-    "notes/Prigogine_Dissipative_Structure.md",
-    "notes/Entropic_Method.md",
-    "perspectives/非马尔科夫的起源.md"
+    "concepts/化学系统/Michaelis–Menten动力学.md",
+    "concepts/平衡态热力学/热力学第一定律.md",
+    "concepts/平衡态热力学/自由能.md",
+    "references/@yoshimuraInformationGeometricInequalities2021.md",
+    "Untitled.md"
   ]
 }
