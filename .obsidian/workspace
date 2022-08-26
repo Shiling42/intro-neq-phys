@@ -7,8 +7,12 @@
         "id": "fa356546d7f3168c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "concepts/非平衡热力学/姆潘巴现象.md",
+            "mode": "source",
+            "source": true
+          }
         },
         "group": "9b4abee6704ecab6"
       },
@@ -18,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/非平衡热力学/熵产生.md",
+            "file": "concepts/非平衡热力学/姆潘巴现象.md",
             "mode": "preview",
             "source": true
           }
@@ -79,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/非平衡热力学/熵产生.md",
+                "file": "concepts/非平衡热力学/姆潘巴现象.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +103,15 @@
   },
   "active": "fa356546d7f3168c",
   "lastOpenFiles": [
+    "concepts/非平衡热力学/熵产生.md",
+    "concepts/化学系统/化学非平衡自由能.md",
+    "concepts/化学系统/化学反应体系形式.md",
+    "concepts/化学系统/化学反应平衡常数.md",
     "concepts/非平衡热力学/最小熵产生.md",
     "concepts/非平衡热力学/非平衡态热力学第二定律.md",
     "concepts/非平衡热力学/非平衡态热力学第一定律.md",
     "concepts/非平衡热力学/非平衡态的耗散.md",
     "concepts/非平衡热力学/相对熵.md",
-    "concepts/非平衡热力学/熵产生.md",
-    "concepts/非平衡热力学/信息和热力学.md",
-    "concepts/通用概念/相空间.md",
-    "concepts/通用概念/概率空间.md",
-    "concepts/通用概念/信息.md"
+    "concepts/非平衡热力学/信息和热力学.md"
   ]
 }
