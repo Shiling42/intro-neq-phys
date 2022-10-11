@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fa356546d7f3168c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "concepts/化学系统/扩散控制反应.md",
-            "mode": "source",
-            "source": true
-          }
-        },
-        "group": "9b4abee6704ecab6"
-      },
-      {
         "id": "ba67fa9b3aad4dd6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/化学系统/扩散控制反应.md",
+            "file": "concepts/随机热力学/涨落定理（离散）.md",
             "mode": "preview",
             "source": true
           }
-        },
-        "group": "9b4abee6704ecab6"
+        }
       }
     ],
     "direction": "vertical"
@@ -54,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "粗粒",
+                "query": "不确定",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 186
   },
   "right": {
     "id": "e247a921c666906c",
@@ -83,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/化学系统/扩散控制反应.md",
+                "file": "concepts/随机热力学/涨落定理（离散）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fa356546d7f3168c",
+  "active": "ba67fa9b3aad4dd6",
   "lastOpenFiles": [
-    "concepts/化学系统/化学反应体系形式.md",
-    "concepts/化学系统/化学反应平衡常数.md",
-    "concepts/化学系统/化学物质守恒律.md",
-    "concepts/随机热力学/粗粒化与熵产生.md",
-    "perspectives/非马尔科夫的起源.md",
-    "concepts/非平衡热力学/姆潘巴现象.md",
     "concepts/非平衡热力学/熵产生.md",
+    "concepts/非平衡热力学/涨落定理（哈密顿系统）.md",
+    "notes/Thermodynamic_uncertainty_relation.md",
+    "concepts/随机热力学/涨落定理（离散）.md",
+    "concepts/随机热力学/粗粒化与熵产生.md",
     "concepts/化学系统/化学非平衡自由能.md",
-    "concepts/非平衡热力学/最小熵产生.md",
-    "concepts/非平衡热力学/非平衡态热力学第二定律.md"
+    "concepts/通用概念/概率空间.md",
+    "concepts/通用概念/相空间.md",
+    "concepts/通用概念/简并度与粗粒化.md",
+    "concepts/化学系统/化学反应体系形式.md"
   ]
 }
