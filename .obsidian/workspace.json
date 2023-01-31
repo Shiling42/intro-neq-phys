@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/随机热力学/涨落定理（离散）.md",
-                "mode": "preview",
-                "source": true
+                "file": "concepts/随机热力学/时间演化的特征展开.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/随机热力学/涨落定理（离散）.md",
+                "file": "concepts/随机热力学/时间演化的特征展开.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +151,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "65038c42cc7be32e",
+  "active": "ba67fa9b3aad4dd6",
   "lastOpenFiles": [
-    "concepts/通用概念/玻尔兹曼分布.md",
-    "imgs/热泳.png",
-    "research/化学系统中的涌现性热泳机制.md",
-    "doi.org/10.1039/C2SM25061F.md",
-    "notes/精细平衡条件的热力学.md",
-    "热泳.png.md",
-    "imgs/热泳_符号变化.png",
-    "imgs/简并度与粗粒化.png",
-    "imgs/正负热泳.png",
-    "notes/动态校对.md"
+    "concepts/非平衡热力学/信息和热力学.md",
+    "concepts/非平衡热力学/广义自由能.md",
+    "concepts/非平衡热力学/最大功下的能效.md",
+    "concepts/非平衡热力学/最小熵产生.md",
+    "concepts/非平衡热力学/涨落定理（哈密顿系统）.md",
+    "concepts/非平衡热力学/熵产生.md",
+    "concepts/非平衡热力学/相对熵.md",
+    "concepts/非平衡热力学/非平衡态热力学第二定律.md",
+    "exercises/Entropy, information and non-equilibrium thermodynamics.md",
+    "imgs/热泳.png"
   ]
 }
