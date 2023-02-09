@@ -4,64 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "886f7912db0efa7d",
+        "id": "e8ff1683dd0f32d9",
         "type": "tabs",
         "children": [
           {
-            "id": "ba67fa9b3aad4dd6",
+            "id": "bd62896592c01465",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/随机热力学/时间演化的特征展开.md",
+                "file": "notes/随机热力学概述.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1f450d97a2e83eed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research/化学系统中的涌现性热泳机制.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a2ae641644b1ed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/通用概念/玻尔兹曼分布.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdda89107c8042ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research/化学系统中的涌现性热泳机制.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "547c4dbcdff28035",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "imgs/热泳.png"
               }
             }
           }
@@ -123,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/随机热力学/时间演化的特征展开.md",
+                "file": "notes/随机热力学概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,17 +105,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ba67fa9b3aad4dd6",
+  "active": "bd62896592c01465",
   "lastOpenFiles": [
+    "notes/随机热力学的三种动力学表述.md",
+    "notes/随机热力学概述.md",
+    "concepts/随机热力学/时间演化的特征展开.md",
     "concepts/非平衡热力学/信息和热力学.md",
     "concepts/非平衡热力学/广义自由能.md",
     "concepts/非平衡热力学/最大功下的能效.md",
     "concepts/非平衡热力学/最小熵产生.md",
     "concepts/非平衡热力学/涨落定理（哈密顿系统）.md",
     "concepts/非平衡热力学/熵产生.md",
-    "concepts/非平衡热力学/相对熵.md",
-    "concepts/非平衡热力学/非平衡态热力学第二定律.md",
-    "exercises/Entropy, information and non-equilibrium thermodynamics.md",
-    "imgs/热泳.png"
+    "concepts/非平衡热力学/相对熵.md"
   ]
 }
