@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e8ff1683dd0f32d9",
+        "id": "abe15f91155654ad",
         "type": "tabs",
         "children": [
           {
-            "id": "bd62896592c01465",
+            "id": "70fc4eb83bb4d956",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/随机热力学概述.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/随机热力学概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +100,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bd62896592c01465",
+  "active": "70fc4eb83bb4d956",
   "lastOpenFiles": [
-    "notes/随机热力学的三种动力学表述.md",
+    "concepts/随机热力学/热力学不确定性原理.md",
     "notes/随机热力学概述.md",
-    "concepts/随机热力学/时间演化的特征展开.md",
-    "concepts/非平衡热力学/信息和热力学.md",
+    "concepts/平衡态热力学/㶲.md",
     "concepts/非平衡热力学/广义自由能.md",
-    "concepts/非平衡热力学/最大功下的能效.md",
+    "concepts/非平衡热力学/局部精细平衡条件.md",
+    "notes/精细平衡条件的热力学.md",
     "concepts/非平衡热力学/最小熵产生.md",
-    "concepts/非平衡热力学/涨落定理（哈密顿系统）.md",
-    "concepts/非平衡热力学/熵产生.md",
-    "concepts/非平衡热力学/相对熵.md"
+    "concepts/化学系统/扩散控制反应.md",
+    "concepts/化学系统/化学非平衡自由能.md",
+    "concepts/平衡态热力学/昂萨格倒异关系.md"
   ]
 }
