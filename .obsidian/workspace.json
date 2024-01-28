@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "abe15f91155654ad",
+        "id": "3fc7f07eb505f25f",
         "type": "tabs",
         "children": [
           {
-            "id": "70fc4eb83bb4d956",
+            "id": "5747483044bda364",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "concepts/化学系统/化学非平衡自由能.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -52,12 +56,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "fe60ecdcf357fb8f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 256
+    "width": 650
   },
   "right": {
     "id": "e247a921c666906c",
@@ -73,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "concepts/化学系统/化学非平衡自由能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +113,37 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "70fc4eb83bb4d956",
+  "active": "5747483044bda364",
   "lastOpenFiles": [
-    "concepts/随机热力学/热力学不确定性原理.md",
-    "notes/随机热力学概述.md",
-    "concepts/平衡态热力学/㶲.md",
-    "concepts/非平衡热力学/广义自由能.md",
-    "concepts/非平衡热力学/局部精细平衡条件.md",
-    "notes/精细平衡条件的热力学.md",
-    "concepts/非平衡热力学/最小熵产生.md",
-    "concepts/化学系统/扩散控制反应.md",
+    "concepts/化学系统/化学自由能.md",
     "concepts/化学系统/化学非平衡自由能.md",
-    "concepts/平衡态热力学/昂萨格倒异关系.md"
+    "concepts/化学系统/化学反应体系形式.md",
+    "concepts/化学系统/化学物质守恒律.md",
+    "concepts/化学系统/化学势.md",
+    "concepts/化学系统/化学反应平衡常数.md",
+    "concepts/化学系统/扩散控制反应.md",
+    "concepts/平衡态热力学/㶲.md",
+    "concepts/平衡态热力学/自由能.md",
+    "concepts/平衡态热力学/热力学第二定律.md",
+    "concepts/平衡态热力学/热力学第一定律.md",
+    "concepts/平衡态热力学/昂萨格倒异关系.md",
+    "notes/（非平衡）热力学中的界限问题.md",
+    "perspectives/当我们在谈信息时我们在谈什么.md",
+    "perspectives/生命起源.md",
+    "notes/K-L散度的物理意义.md",
+    "concepts/非平衡热力学/信息和热力学.md",
+    "concepts/通用概念/信息.md",
+    "concepts/通用概念/概率空间.md",
+    "concepts/通用概念/相空间.md",
+    "concepts/通用概念/玻尔兹曼分布.md",
+    "concepts/通用概念/简并度与粗粒化.md",
+    "concepts/化学系统/Michaelis–Menten动力学.md",
+    "concepts/数学库/傅里叶级数.md",
+    "concepts/数学库/斯特林公式.md",
+    "notes/Entropic_Method.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "concepts/随机过程/Untitled",
+    "concepts/随机过程"
   ]
 }
