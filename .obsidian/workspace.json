@@ -4,19 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "3fc7f07eb505f25f",
+        "id": "76f4e36c45e56ac3",
         "type": "tabs",
         "children": [
           {
-            "id": "5747483044bda364",
+            "id": "5da1bf9953e2b4aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/化学系统/化学非平衡自由能.md",
+                "file": "concepts/数学库/终值定理.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "135af8303c467f69",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 650
+    "width": 401
   },
   "right": {
     "id": "e247a921c666906c",
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/化学系统/化学非平衡自由能.md",
+                "file": "concepts/数学库/终值定理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,34 +121,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5747483044bda364",
+  "active": "5da1bf9953e2b4aa",
   "lastOpenFiles": [
+    "concepts/数学库/终值定理.md",
+    "concepts/通用概念/互信息.md",
+    "concepts/随机热力学/传播子.md",
+    "concepts/随机热力学/主方程.md",
+    "concepts/随机热力学/时间演化的特征展开.md",
+    "concepts/通用概念/概率空间.md",
+    "concepts/通用概念/玻尔兹曼分布.md",
+    "concepts/随机热力学/随机热力学第一定律.md",
+    "concepts/随机热力学/轨迹概率.md",
+    "concepts/随机热力学/轨迹.md",
+    "concepts/随机热力学/福克普朗克方程.md",
+    "concepts/随机热力学/涨落定理（离散）.md",
+    "concepts/随机微分方程/伊藤积分.md",
+    "concepts/随机微分方程/Stratonovich积分.md",
+    "concepts/随机热力学/郎之万方程.md",
+    "concepts/通用概念/简并度与粗粒化.md",
+    "concepts/通用概念/相空间.md",
+    "concepts/化学系统/化学反应平衡常数.md",
     "concepts/化学系统/化学自由能.md",
     "concepts/化学系统/化学非平衡自由能.md",
+    "Excalidraw/Drawing 2024-04-29 22.34.12.excalidraw.md",
+    "Excalidraw",
+    "concepts/化学系统/化学势.md",
     "concepts/化学系统/化学反应体系形式.md",
     "concepts/化学系统/化学物质守恒律.md",
-    "concepts/化学系统/化学势.md",
-    "concepts/化学系统/化学反应平衡常数.md",
     "concepts/化学系统/扩散控制反应.md",
     "concepts/平衡态热力学/㶲.md",
-    "concepts/平衡态热力学/自由能.md",
-    "concepts/平衡态热力学/热力学第二定律.md",
-    "concepts/平衡态热力学/热力学第一定律.md",
-    "concepts/平衡态热力学/昂萨格倒异关系.md",
-    "notes/（非平衡）热力学中的界限问题.md",
-    "perspectives/当我们在谈信息时我们在谈什么.md",
-    "perspectives/生命起源.md",
-    "notes/K-L散度的物理意义.md",
-    "concepts/非平衡热力学/信息和热力学.md",
-    "concepts/通用概念/信息.md",
-    "concepts/通用概念/概率空间.md",
-    "concepts/通用概念/相空间.md",
-    "concepts/通用概念/玻尔兹曼分布.md",
-    "concepts/通用概念/简并度与粗粒化.md",
-    "concepts/化学系统/Michaelis–Menten动力学.md",
-    "concepts/数学库/傅里叶级数.md",
-    "concepts/数学库/斯特林公式.md",
-    "notes/Entropic_Method.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "concepts/随机过程/Untitled",
