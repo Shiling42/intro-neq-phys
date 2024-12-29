@@ -6,7 +6,7 @@ date: 07-12-2024
 
 我们想通过这个概率分布测量出这个控制量 $\theta$, 我们假设有一个完美的观测量, $\hat{\theta}(x)$, 我们可以得出无偏的估计
 $$
-\theta = \langle \hat{\theta}\rangle
+\theta = \langle \hat{\theta}(x)\rangle
 $$
 有一个很直接的关系是
 $$
